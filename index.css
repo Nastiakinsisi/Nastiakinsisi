@@ -157,7 +157,7 @@ hr {
 }
 .container .plate {
   position: absolute;
-  bottom: 170px;
+  bottom: 150px;
   left: 50%;
   transform: translateX(-50%);
   width: 200px;
